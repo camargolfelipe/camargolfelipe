@@ -1,4 +1,4 @@
-# Hi, I'm Luís Felipe Camargo 
+# Hi, I'm Luís Felipe Camargo. 
 
 
 Currently working with mobile and web development using Flutter/Dart. I love to explore new languages and learn new skills... here I show some of my portfolio.
