@@ -16,8 +16,6 @@ I love to explore new languages and learn new skills... here I show some of my p
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camargolfelipe&layout=compact&theme=buefy&hide_border=true" /></a>
 <br>
 <br>
-<a href="https://github.com/camargolfelipe/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=camargolfelipe&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Felipe's github stats" />
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=camargolfelipe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
 
 
