@@ -13,9 +13,7 @@ I love to explore new languages and learn new skills... here I show some of my p
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camargolfelipe&layout=compact&theme=material-palenight"/>
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camargolfelipe&layout=compact&theme=buefy&hide_border=true" /></a>
 <br>
 <br>
 <a href="https://github.com/camargolfelipe/github-readme-stats">
