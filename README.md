@@ -2,8 +2,8 @@
 
 I love to explore new languages and learn new skills... here I show some of my portfolio. I hope you enjoy it!
 
-- 🔭 I’m currently working in mobile & WEB projects (flutter and JavaScript)
-- 🌱 I’m currently learning PHP(Laravel).
+- 🔭 I’m currently working in mobile & WEB projects (Flutter and Kotlin)
+- 🌱 I’m currently learning Swift.
 - 💬 Ask me about anything [here](https://api.whatsapp.com/send?phone=12982805314&text=Sou%20o%20Lu%C3%ADs%20Felipe!)
 
 **Languages and Tools:**  
