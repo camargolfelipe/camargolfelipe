@@ -2,7 +2,7 @@
 
 I love to explore new languages and learn new skills... here I show some of my portfolio. I hope you enjoy it!
 
-- 🔭 I’m currently working in mobile & WEB projects (Flutter and Kotlin)
+- 🔭 I’m currently working in mobile & WEB projects (Flutter, Kotlin and Angular)
 - 🌱 I’m currently learning C#/.NET.
 - 💬 Ask me about anything [here](https://api.whatsapp.com/send?phone=12982805314&text=Sou%20o%20Lu%C3%ADs%20Felipe!)
 
@@ -11,6 +11,8 @@ I love to explore new languages and learn new skills... here I show some of my p
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> Flutter
 <br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> Kotlin - Android
+<br>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> Flutter
 <br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code> NextJs and React Native
 <br>
